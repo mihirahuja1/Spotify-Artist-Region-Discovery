@@ -13,8 +13,8 @@ How can we leverage this to help artist plan expand their target audience?
 # Artist Region Discovery!
 
   - Using Spotify's Top 200 Charts for 57 Countries, I have tried to come up with a way to predict where an artist's music can be appreciated and matches taste of people.
-  - Also included are some trend of world's listening behvaiour
-  - 
+  - Also included are some trends of world's listening behvaior.
+ 
   
 ## The First Step is to collect Charts for all the countries where Spotify is available.
 There was some issue fetching the data fro 'Andora' so had to drop it eventually.

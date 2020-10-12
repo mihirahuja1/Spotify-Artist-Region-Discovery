@@ -5,7 +5,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 Do certain set of countries show similar music listening behaviour?
-How can we leverage this to help artist plan expand their target audience?
+How can we leverage this to help artist expand their target audience?
 
 [![N|Solid](https://github.com/mihirahuja1/Spotify-Artist-Region-Discovery/blob/master/Images/Screen%20Shot%202020-07-18%20at%203.55.43%20PM.png)](https://nodesource.com/products/nsolid)
 

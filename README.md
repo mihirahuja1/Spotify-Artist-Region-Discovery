@@ -1,5 +1,7 @@
 # Dillinger
 
+# Use https://nbviewer.jupyter.org/github/mihirahuja1/Spotify-Artist-Region-Discovery/blob/master/Model_PCA_Clustering.ipynb to open the main notebook
+
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
